@@ -4,6 +4,7 @@
   "private": true,
   "author": "Parity Technologies <admin@parity.io>",
   "license": "Unlicense",
+  "homepage": "https://vinhbhn.github.io/frontend-polkadot-hackathon/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
